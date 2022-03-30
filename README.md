@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Brandon Vicchiollo 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${brandonvicc}.${brandonvicc.id})
+## Welcome to my Profile 😄 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${brandonvicc}.${brandonvicc.id})
+I am an athlete with a passion for Software Engineering. My hobbies are playing basketball🏀, building web apps💻, and cooking food Gordon Ramsey would hate 🍔.
+
+As a Software Engineer, I love using my creative mind, willingness to want to help anyone, and strategic mindset to build apps that will improve lives and change the world🗺️. 
+
+*“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”* — Eleanor Roosevelt
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonvicc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
