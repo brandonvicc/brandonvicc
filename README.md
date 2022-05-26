@@ -11,6 +11,8 @@ As a Software Engineer, I love using my creative mind, willingness to want to he
 
 *“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”* — Eleanor Roosevelt
 
+<a href="https://www.brandonvicchiollo.com">Portfolio site</a>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonvicc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonvicc&layout=compact)
 
 
